@@ -1,8 +1,8 @@
 # filename: repo.yaml
-# Minimal repository manifest for the flat-file Agent Factory system.
+# Repository manifest for the Agent Factory system.
 
 repo:
-  name: "agent-factory"
+  name: "mp1-6-three-axis-110-111-112-extension"
   hierarchy: "flat"
   required_files:
     - "agents.yaml"
